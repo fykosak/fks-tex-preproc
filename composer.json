@@ -1,0 +1,12 @@
+{
+  "name": "fykosak/fks-text-preproc",
+  "type": "library",
+  "require": {
+    "php": ">=7.4 <8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fykosak\\FKSTexPreprocess\\": "src/"
+    }
+  }
+}
