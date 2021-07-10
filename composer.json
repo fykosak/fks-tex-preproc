@@ -1,5 +1,5 @@
 {
-  "name": "fykosak/fks-text-preproc",
+  "name": "fykosak/fks-tex-preproc",
   "type": "library",
   "require": {
     "php": ">=7.4 <8.1"
